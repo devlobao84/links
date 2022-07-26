@@ -486,6 +486,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Ballerini](https://discord.gg/ballerini)
 
+[DevStar](https://discord.gg/JPKbUfCKMf)
+
 
 ## Grupos do Telegram
 
